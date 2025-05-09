@@ -10,7 +10,7 @@ h1 {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  flex-gap: 10px;
+  gap: 10px;
 }
 
 .pic {
