@@ -1,0 +1,17 @@
+body {
+  background-color: #8fd892;
+}
+h1 {
+  font-family: sans-serif;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pic {
+  width: 25%
+}
